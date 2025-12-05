@@ -1,0 +1,11 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+pyrebase4>=4.7.1
+firebase-admin>=6.5.0
+sounddevice
+librosa 
+numpy
+pygame  
+pyaudio 
+mutagen
+Pillow
