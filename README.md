@@ -1,6 +1,10 @@
 # Video explicativo
 [Video MUGUI](https://youtu.be/2amNoKBj0Cw)
 
+# BACKEND
+[Backend.pdf](https://github.com/user-attachments/files/23952854/Backend.pdf)
+
+
 # MUGUI
 
 Esta aplicación te proporciona cuatro herramientas esenciales para practicar música:
